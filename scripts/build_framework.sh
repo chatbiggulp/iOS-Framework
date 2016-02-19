@@ -13,7 +13,16 @@ SF_EXECUTABLE_PATH="lib${SF_TARGET_NAME}.a"
 SF_WRAPPER_NAME="${SF_TARGET_NAME}.framework"
 
 # The following conditionals come from
-# https://github.com/kstenerud/iOS-Universal-Framework
+# https://
+
+
+
+
+
+
+
+
+.com/kstenerud/iOS-Universal-Framework
 
 if [[ "$SDK_NAME" =~ ([A-Za-z]+) ]]
 then
